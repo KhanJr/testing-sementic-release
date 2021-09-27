@@ -1,5 +1,4 @@
 module.exports = {
-  plugins: ["commitlint-plugin-jira-rules"],
   rules: {
     "scope-case": [
       2,
