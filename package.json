@@ -44,5 +44,11 @@
       "defaultBody": "",
       "defaultIssues": ""
     }
+  },
+  "release": {
+    "branches": [
+      "master",
+      "main"
+    ]
   }
 }
