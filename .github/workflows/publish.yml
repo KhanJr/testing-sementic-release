@@ -31,5 +31,5 @@ jobs:
       - run: npm test
       - run: npx semantic-release
         env:
-          GIHUB_TOKE: ${{secrets.GITHUB_TOKEN}}
+          GITHUB_TOKE: ${{secrets.GITHUB_TOKEN}}
           NPM_TOKEN: ${{secrets.NPM_TOKEN}}
